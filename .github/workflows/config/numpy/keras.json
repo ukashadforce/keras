@@ -4,3 +4,4 @@
     "backend": "numpy",
     "image_data_format": "channels_last"
 }
+  "image_data_format": "channels_last_fix"
